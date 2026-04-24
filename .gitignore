@@ -1,0 +1,9 @@
+*.ipynb_checkpoints
+__pycache__/
+.venv/
+data/processed/
+data/bronze/
+data/silver/
+data/gold/
+*.parquet
+.DS_Store
